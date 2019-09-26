@@ -1,0 +1,15 @@
+#myCanvas
+{
+    background-color: black;
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+
+#start, #lose, #win
+{
+    text-align: center;
+    color: white;
+    margin-top: -25%;
+
+}
